@@ -1,0 +1,4 @@
+rootProject.name = 'StoreAppMarathon'
+include 'product-service'
+include 'stock-service'
+
